@@ -3,6 +3,6 @@ class Person {
 }
       
 const person = new Person();
-person.name = "Waqar";
+person.name = "abdul JWaqar";
 
 console.log(person);
